@@ -24,14 +24,13 @@ npm run dev
 
 ## Screenshots
 
-iOS look & feel            |  Android look & feel
-:-------------------------:|:-------------------------:
-![](https://github.com/Tommertom/svelte-ionic-tabs-demo/raw/main/screenshots/localhost_3000_tabs_tab1(iPhone%20SE).png)  |  ![](https://github.com/Tommertom/svelte-ionic-tabs-demo/raw/main/screenshots/localhost_3000_tabs_tab1(Samsung%20Galaxy%20S8%2B).png)
-
-<img alt="IonicSvelte" title="IonicSvelte" src="" width="35%">
-
+iPhone SE:
 
 <img alt="IonicSvelte" title="IonicSvelte" src="screenshots/localhost_3000_tabs_tab1(iPhone SE).png" width="35%">
+
+Samsung S8+:
+
+<img alt="IonicSvelte" title="IonicSvelte" src="screenshots/localhost_3000_tabs_tab1(Samsung Galaxy S8+).png" width="35%">
 
 ## All starters
 * Blank demo - https://github.com/Tommertom/svelte-ionic-blank-demo

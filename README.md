@@ -34,7 +34,7 @@ npm run dev
     <td><img alt="IonicSvelte" title="IonicSvelte" src="screenshots/localhost_3000_tabs_tab1(Samsung Galaxy S8+).png" width="45%"></td>
   </tr>
 </table>
-(not many differences, right?)
+
 
 ## All starters
 * Blank demo - https://github.com/Tommertom/svelte-ionic-blank-demo

@@ -26,7 +26,7 @@ npm run dev
 
 iOS look & feel            |  Android look & feel
 :-------------------------:|:-------------------------:
-![](https://...Dark.png)  |  ![](https://...Ocean.png)
+![](https://github.com/Tommertom/svelte-ionic-tabs-demo/raw/main/screenshots/localhost_3000_tabs_tab1(iPhone%20SE).png)  |  ![](https://github.com/Tommertom/svelte-ionic-tabs-demo/raw/main/screenshots/localhost_3000_tabs_tab1(Samsung%20Galaxy%20S8%2B).png)
 
 <img alt="IonicSvelte" title="IonicSvelte" src="" width="35%">
 

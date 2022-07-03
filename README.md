@@ -22,6 +22,17 @@ npm i
 npm run dev
 ```
 
+## Screenshots
+
+iOS look & feel            |  Android look & feel
+:-------------------------:|:-------------------------:
+![](https://...Dark.png)  |  ![](https://...Ocean.png)
+
+<img alt="IonicSvelte" title="IonicSvelte" src="" width="35%">
+
+
+<img alt="IonicSvelte" title="IonicSvelte" src="screenshots/localhost_3000_tabs_tab1(iPhone SE).png" width="35%">
+
 ## All starters
 * Blank demo - https://github.com/Tommertom/svelte-ionic-blank-demo
 * Tabs demo - https://github.com/Tommertom/svelte-ionic-tabs-demo
@@ -47,6 +58,9 @@ The following derived stores are implemented:
 - `beforeInstallPrompt` - `undefined|BeforeInstallPromptEvent` - which you can use to fire the `.prompt()` method to invoke the install prompt. N.B. this needs to happen right after an userevent (like button press)!
 
 All these props are also available via the `pwaStatusStream` readable store.
+
+## Roxi Routify 3
+This code uses Roxi's newest version of its router. See https://v3.ci.routify.dev/docs#guide to know more. By the time of this writing, this is actually still in beta. If you want to change router, please make sure you change the hooks in IonPage.svelte (part of `$ionic/svelte/components/IonPage.svelte`).
 
 # Issues - work in progress and acknowledgments
 Please refer to the README on the main repo - https://github.com/Tommertom/svelte-ionic-app

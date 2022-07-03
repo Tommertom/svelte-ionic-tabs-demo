@@ -26,11 +26,29 @@ npm run dev
 
 iPhone SE:
 
+<table>
+  <tr>
+    <th>iOS</th>
+    <th>Android</th>
+    
+  </tr>
+  <tr>
+    <td>
+<img alt="IonicSvelte" title="IonicSvelte" src="screenshots/localhost_3000_tabs_tab1(iPhone SE).png" width="65%" ></td>
+    <td><img alt="IonicSvelte" title="IonicSvelte" src="screenshots/localhost_3000_tabs_tab1(Samsung Galaxy S8+).png" width="65%"></td>
+   
+  </tr>
+
+</table>
+
+
 <img alt="IonicSvelte" title="IonicSvelte" src="screenshots/localhost_3000_tabs_tab1(iPhone SE).png" width="35%">
 
 Samsung S8+:
 
 <img alt="IonicSvelte" title="IonicSvelte" src="screenshots/localhost_3000_tabs_tab1(Samsung Galaxy S8+).png" width="35%">
+
+(not many differences, right?)
 
 ## All starters
 * Blank demo - https://github.com/Tommertom/svelte-ionic-blank-demo
